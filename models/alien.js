@@ -15,4 +15,4 @@ const alienSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model('Alien', alienSchema);
+module.exports = mongoose.model('CBIT', alienSchema);
